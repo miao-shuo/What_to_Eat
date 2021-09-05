@@ -1,7 +1,7 @@
 from random import choice
 
 def main():
-    meat_dishes = ['椒麻鸡', '酸汤肥牛', '牛尾汤']
+    meat_dishes = ['椒麻鸡', '酸汤肥牛', '牛尾汤', '回锅肉']
     vegetable_dishes = ['蚝油生菜', '蒜炒菠菜', '青椒炒蛋', '粉丝包菜']
 
     meat_dishe = choice(meat_dishes)
